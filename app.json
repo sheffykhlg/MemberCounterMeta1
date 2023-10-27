@@ -12,10 +12,12 @@
     "env": {
         "API_ID": {
             "description": "Get from my.telegram.org/apps",
+            "value": "799643940",
             "required": true
         },
         "API_HASH": {
             "description": "Get from my.telegram.org/apps",
+            "value": "b652d899291ce2a944327090bdf3be2b",
             "required": true
         },
         "SESSION_STRING": {
@@ -24,10 +26,12 @@
         },
         "CHANNEL_OR_GROUP_LIST": {
             "description": "List of channel and group ids  (Example: -1001357289914 -1001658289913 -1001357223413)",
+            "value": "-1001970053627 -1001638135786 -1001909036025 -1001936829855",
             "required": true
         },
        "CHANNEL_OR_GROUP_ID": {
             "description": "Main channel's or group's Telegram id (Example: -1001246808642)",
+            "value": "-1091638135786",
             "required": true
         },
        "MESSAGE_ID": {
