@@ -26,7 +26,7 @@
         },
         "CHANNEL_OR_GROUP_LIST": {
             "description": "List of channel and group ids  (Example: -1001357289914 -1001658289913 -1001357223413)",
-            "value": "-1001970053627 -1001638135786 -1001909036025 -1001936829855",
+            "value": "-1001945293024 -1001909036025 -1001638135786",
             "required": true
         },
        "CHANNEL_OR_GROUP_ID": {
